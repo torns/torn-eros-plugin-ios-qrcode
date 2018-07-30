@@ -1,0 +1,1 @@
+# torn-eros-plugin-ios-qrcode
