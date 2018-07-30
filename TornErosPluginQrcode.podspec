@@ -1,7 +1,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name         = "TornErosPluginQrcode"
-  s.version      = "1.0.0"
+  s.version      = "0.0.1"
   s.summary      = "TornErosPluginQrcode Source ."
   s.homepage     = 'https://github.com/torns/torn-eros-plugin-ios-qrcode'
   s.license      = "MIT"
